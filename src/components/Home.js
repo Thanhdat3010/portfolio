@@ -9,11 +9,9 @@ const Home = () => {
       <Row className="p-5 col-l home">
         <Col md={6}>
           <h2 className="Name">{"I'm Thanh Dat"}</h2>
-          <h1 className="Xtitle">AI<br />Research</h1>
+          <h1 className="Xtitle">AI<br />Researcher</h1>
           <p className="content">
-            I am a student majoring in Artificial Intelligence
-            at the Posts and Telecommunications Institute of Technology, with a strong passion for research
-            in the field.
+            I am an undergraduate student at the Faculty of Information Technology, Ho Chi Minh City University of Science, Vietnam National University (VNU-HCM), where I am pursuing my studies from 2025 to 2029. My primary research interest lies in Natural Language Processing (NLP), which I have been focusing on since 2025. I am particularly interested in developing language technologies for low-resource languages and applying modern deep learning techniques to real-world NLP problems.
           </p>
           <Row className="align-items-center social flex-column flex-md-row">
             <Col md={8} className="d-flex flex-column flex-md-row align-items-center">
