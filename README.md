@@ -1,5 +1,4 @@
 # Personal Portfolio Template
-<img width="1000" height="568" alt="image" src="https://github.com/user-attachments/assets/52e81c39-a717-47c1-9b4f-bfa8dcf5abf8" />
 
 A modern, responsive portfolio website built with **React** and deployed on **Vercel**. This project showcases my quality services, works, skills, and blog in a clean and professional format. Designed with a focus on usability and performance, the portfolio adapts fluidly across devices, ensuring an optimal viewing experience on desktops, tablets, and mobile phones. This project allows you to create a personal portfolio with a simple configuration, enabling you to quickly build your own portfolio website. The designs only have some of my own creativity; the rest are based on inspiration from designers on various art platforms.
 
